@@ -1,0 +1,126 @@
+Time between pulses: 823.00
+Pulses per minute: 72
+Time between pulses: 115.00
+Pulses per minute: 521
+Time between pulses: 108.00
+Pulses per minute: 555
+Button1State == 0
+Time between pulses: 117.00
+Pulses per minute: 512
+Time between pulses: 108.00
+Pulses per minute: 555
+Time between pulses: 117.00
+Pulses per minute: 512
+Time between pulses: 225.00
+Pulses per minute: 266
+Time between pulses: 226.00
+Pulses per minute: 265
+Time between pulses: 226.00
+Pulses per minute: 265
+Time between pulses: 226.00
+Pulses per minute: 265
+Time between pulses: 109.00
+Pulses per minute: 550
+Time between pulses: 117.00
+Pulses per minute: 512
+Time between pulses: 110.00
+Pulses per minute: 545
+Time between pulses: 118.00
+Pulses per minute: 508
+Time between pulses: 108.00
+Pulses per minute: 555
+Time between pulses: 118.00
+Pulses per minute: 508
+Time between pulses: 228.00
+Pulses per minute: 263
+Time between pulses: 457.00
+Pulses per minute: 131
+Time between pulses: 110.00
+
+Time between pulses: 117.00
+Pulses per minute: 512
+Time between pulses: 110.00
+Pulses per minute: 545
+Time between pulses: 119.00
+Pulses per minute: 504
+Time between pulses: 109.00
+Pulses per minute: 550
+Time between pulses: 229.00
+Pulses per minute: 262
+Button1State == 1
+Time between pulses: 227.00
+Pulses per minute: 264
+Time between pulses: 119.00
+Pulses per minute: 504
+Button1State == 0
+Time between pulses: 228.00
+Pulses per minute: 263
+Time between pulses: 110.00
+Pulses per minute: 545
+Time between pulses: 120.00
+Pulses per minute: 500
+Time between pulses: 109.00
+Pulses per minute: 550
+Time between pulses: 119.00
+Pulses per minute: 504
+Button1State == 1
+Button1State == 0
+Time between pulses: 337.00
+Pulses per minute: 178
+Button2State == 1
+Button2State == 0
+Button1State == 1
+Time between pulses: 1272.00
+Pulses per minute: 47
+Time between pulses: 110.00
+Pulses per minute: 545
+Button1State == 0
+Time between pulses: 231.00
+Pulses per minute: 259
+Button1State == 1
+Time between pulses: 230.00
+Pulses per minute: 260
+Button1State == 0
+Time between pulses: 119.00
+Pulses per minute: 504
+Pulses per minute: 540
+Button1State == 1
+Time between pulses: 231.00
+Pulses per minute: 259
+Button1State == 0
+Time between pulses: 120.00
+Pulses per minute: 500
+Button1State == 1
+Time between pulses: 230.00
+Pulses per minute: 260
+Button1State == 0
+Time between pulses: 230.00
+Pulses per minute: 260
+Time between pulses: 111.00
+Pulses per minute: 540
+Time between pulses: 231.00
+Pulses per minute: 259
+Time between pulses: 120.00
+Pulses per minute: 500
+Time between pulses: 111.00
+Pulses per minute: 540
+Time between pulses: 231.00
+Pulses per minute: 259
+Time between pulses: 120.00
+Pulses per minute: 500
+Time between pulses: 462.00
+Pulses per minute: 129
+Time between pulses: 112.00
+Pulses per minute: 535
+Time between pulses: 119.00
+Pulses per minute: 504
+Time between pulses: 112.00
+Pulses per minute: 535
+Time between pulses: 120.00
+Pulses per minute: 500
+Time between pulses: 111.00
+Pulses per minute: 540
+Time between pulses: 352.00
+Pulses per minute: 170
+Time between pulses: 231.00
+Pulses per minute: 259
