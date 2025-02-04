@@ -1,9 +1,11 @@
 # Engine-Hybrid-AutoStart
 Adding basic control features to small engines
-This is the first release and I'm sure many things are not working perfectly
-Most of the code structure is there, it's time to connect them together to make things to work
 
-# Designed for Microcontrollers, Simple Engines/Motors, and Hobbyists
+This is the first release and I'm sure many things are not working perfectly or written well
+
+Most of the code structure is there, it's just getting to connecting them together to make things work
+
+# Designed for Microcontrollers, Simple Carbuerated Engines / Electric Motors, and Hobbyists
 ## Current supported devices
  - 5V logic boards
    - Arduino nano/mega/uno/etc.
@@ -11,6 +13,12 @@ Most of the code structure is there, it's time to connect them together to make 
  - 2 relays/mosffets
  - 1 temp sensor
  - 1 DAC (Digital to Analog Converter)
+ - 2 servo motors
+ - 1 Spark coil (and a voltage divider with octocoupler)
+
+## Custom Parts
+ - Dual servo (Throttle & Choke) mounting bracket for a pz20 carbuerator
+ - (Future) EFI Throttle body and injector mount
 
 # Features
  - RPM monitering (based off spark signal)
