@@ -24,6 +24,13 @@ Most of the code structure is there, it's just getting to connecting them togeth
  - knock off Tao Tao 125cc 3 speed atv Carbuerated
  - 3kw electric motor
 
+## For More Information
+ - Youtube Channel: https://www.youtube.com/@mechanceism
+ - Playlist: https://www.youtube.com/playlist?list=PLbks487P7yJCsIAiZIUsBMxj5zc2dP7JO
+ - Basic rewiring: https://youtu.be/ws6BDvNJcOI
+ - Hybrid Inital setup: https://youtu.be/ayrcGL1MsC4
+ - Digitized Carbuerator: https://youtu.be/1UslfvnQJVw
+
 # Features
  - RPM monitering (based off spark signal)
    - Simple resistor octocoupler paired with a voltage divider
