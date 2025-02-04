@@ -20,6 +20,10 @@ Most of the code structure is there, it's just getting to connecting them togeth
  - Dual servo (Throttle & Choke) mounting bracket for a pz20 carbuerator
  - (Future) EFI Throttle body and injector mount
 
+## Current Test Engines: 
+ - knock off Tao Tao 125cc 3 speed atv Carbuerated
+ - 3kw electric motor
+
 # Features
  - RPM monitering (based off spark signal)
    - Simple resistor octocoupler paired with a voltage divider
