@@ -68,14 +68,24 @@ Most of the code structure is there, it's just getting to connecting them togeth
 
 # Plans (Not in order)
  - Flywheel based timing
- - Be a CDI box replacement (Currently still required)
+ - CDI box replacement Platform (Currently still required)
+ - Basic EFI support
+ - Advance and delay timing
  - Constant RPM throttle Compensation Option (set and potentiometer based) (Corrently throttle is degree open based)
+ - Auto idle Compensation
  - Auto shifting support
  - Support for abs speed sensors
  - Constant Speed throttle Compensation Option (set and potentiometer based) (Corrently throttle is degree open based)
- - Remote start
+ - Remote start/shutdown
+  - Dual directional transmission key fobs
  - Servo Breakout Board Support
  - Support more thermocouples
  - Analog and PWM throttle output Support
  - PWM Throttle Support
+ - dual throttle Checking Support
  - Startup Rev Option (Not designed for CVTs)
+ - Source Voltage detection (For Generators power appliances or charging batteries)
+  - Outputs for disabling/enabling main breaker and generator breaker
+ - Fuel level estimation/warning/fuel low shutdown
+ - Fuel priming
+ - Fuel Cutoff
