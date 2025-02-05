@@ -18,6 +18,7 @@ Most of the code structure is there, it's just getting to connecting them togeth
 
 ## Custom Parts
  - Dual servo (Throttle & Choke) mounting bracket for a pz20 carbuerator
+ - Uses MG996R 55g Metal Gear Torque Digital Servo
  - (Future) EFI Throttle body and injector mount
 
 ## Current Test Engines: 
@@ -28,7 +29,7 @@ Most of the code structure is there, it's just getting to connecting them togeth
  - Youtube Channel: https://www.youtube.com/@mechanceism
  - Playlist: https://www.youtube.com/playlist?list=PLbks487P7yJCsIAiZIUsBMxj5zc2dP7JO
  - Basic rewiring: https://youtu.be/ws6BDvNJcOI
- - Hybrid Inital setup: https://youtu.be/ayrcGL1MsC4
+ - Hardwire Hybrid Inital setup: https://youtu.be/ayrcGL1MsC4
  - Digitized Carbuerator: https://youtu.be/1UslfvnQJVw
 
 # Features
@@ -64,3 +65,17 @@ Most of the code structure is there, it's just getting to connecting them togeth
  - Safe Shutdown
    - Overtemp shudown
    - Emergency Shutdwon
+
+# Plans (Not in order)
+ - Flywheel based timing
+ - Be a CDI box replacement (Currently still required)
+ - Constant RPM throttle Compensation Option (set and potentiometer based) (Corrently throttle is degree open based)
+ - Auto shifting support
+ - Support for abs speed sensors
+ - Constant Speed throttle Compensation Option (set and potentiometer based) (Corrently throttle is degree open based)
+ - Remote start
+ - Servo Breakout Board Support
+ - Support more thermocouples
+ - Analog and PWM throttle output Support
+ - PWM Throttle Support
+ - Startup Rev Option (Not designed for CVTs)
