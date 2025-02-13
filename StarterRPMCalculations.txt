@@ -36,7 +36,6 @@ Pulses per minute: 263
 Time between pulses: 457.00
 Pulses per minute: 131
 Time between pulses: 110.00
-
 Time between pulses: 117.00
 Pulses per minute: 512
 Time between pulses: 110.00
