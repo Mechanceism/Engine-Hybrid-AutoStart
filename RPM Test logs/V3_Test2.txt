@@ -1,0 +1,36 @@
+Button1State == 1
+Button1State == 0
+Time between pulses: 148.00
+Pulses per minute: 405
+Button1State == 1
+Time between pulses: 32843.00
+Pulses per minute: 1
+Button1State == 0
+Time between pulses: 370.00
+Pulses per minute: 162
+Button1State == 1
+Button1State == 0
+Time between pulses: 6570.00
+Pulses per minute: 9
+Time between pulses: 220.00
+Pulses per minute: 272
+Time between pulses: 218.00
+Pulses per minute: 275
+Time between pulses: 113.00
+Pulses per minute: 530
+Time between pulses: 104.00
+Pulses per minute: 576
+Time between pulses: 113.00
+Pulses per minute: 530
+Time between pulses: 105.00
+Pulses per minute: 571
+Time between pulses: 113.00
+Pulses per minute: 530
+Time between pulses: 105.00
+Pulses per minute: 571
+Time between pulses: 112.00
+Pulses per minute: 535
+Time between pulses: 233.00
+Pulses per minute: 257
+Time between pulses: 168.00
+Pulses per minute: 357
