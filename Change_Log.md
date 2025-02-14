@@ -28,14 +28,10 @@
  - Digitized Carbortor
    - Added servo mounting bracket for MG996R 55g Metal Gear Torque Digital Servo
    - PWM throttle and choke control
-     - Potentiometer passthrough
-     - temperture adjusting choke
  - Invertable relay/mosffet Starter & Kill Switch control
  - Dual Input Mode starter motor control (debounced)
    - Momentary passthrough with RPM cutoff
    - Toggled timed attempt with RPM cutoff
- - AutoRestart
-   - If the engine turns off it will attempt to restart (if enabled)
  - RPM Rev Limiter (if enabled)
    - Time based adjustable
  - Gear Selection Indicator
@@ -52,3 +48,16 @@
  - Safe Shutdown
    - Overtemp shudown
    - Emergency Shutdwon
+
+## 0.4
+ - 1st running release (pulses are accuratly counted)
+ - Not backwards compatible to past versions
+ - Moved all of the pin definitions over by 1 so that pin 2 could be used for the CoilpulsePin
+ - Pin 2 defined as an inturupt
+ - Added a function for during the interupt
+ - Changed how rpm is calculated (pulses per unit of time verses time between pulses calc, must faster and relyable)
+ - Chnaged button logic to be customizable in config
+ - Added some more config settings
+ - Added use of the Wire.h & Adafruit_PWMServoDriver.h libraries for the PCA9685 PWM Servo Driver Board
+ - Commented out direct servo control temporarily
+ - Commented out all temp control temporarily
