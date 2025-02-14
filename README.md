@@ -1,7 +1,9 @@
 # Engine-Hybrid-AutoStart
-Adding basic control features to small engines
+Adding basic control features to small engines (Mainly push button start and stop)
 
-This is the first release and I'm sure many things are not working perfectly or written well
+Designed to acompany a cdi box and to read the signal going to the spark coil
+
+This is the first beta release (v0.4) and I'm sure many things are not working perfectly or written well
 
 Most of the code structure is there, it's just getting to connecting them together to make things work
 
@@ -13,7 +15,10 @@ Most of the code structure is there, it's just getting to connecting them togeth
  - 2 relays/mosffets
  - 1 temp sensor
  - 1 DAC (Digital to Analog Converter)
- - 2 servo motors
+ - 2 servo motors (3 options)
+  - Disable
+  - Direct control through arduino
+  - Control through pwm breakout board
  - 1 Spark coil (and a voltage divider with octocoupler)
 
 ## Custom Parts
@@ -31,6 +36,7 @@ Most of the code structure is there, it's just getting to connecting them togeth
  - Basic rewiring: https://youtu.be/ws6BDvNJcOI
  - Hardwire Hybrid Inital setup: https://youtu.be/ayrcGL1MsC4
  - Digitized Carbuerator: https://youtu.be/1UslfvnQJVw
+ - AutoStart: https://youtu.be/3l94y7KEp1Y
 
 # Features
  - RPM monitering (based off spark signal)
@@ -69,7 +75,7 @@ Most of the code structure is there, it's just getting to connecting them togeth
 # Plans (Not in order)
  - Flywheel based timing
  - CDI box replacement Platform (Currently still required)
- - Basic EFI support
+ - Basic EFI support (probably not, speeduino is a much better option for that)
  - Advance and delay timing
  - Constant RPM throttle Compensation Option (set and potentiometer based) (Corrently throttle is degree open based)
  - Auto idle Compensation
