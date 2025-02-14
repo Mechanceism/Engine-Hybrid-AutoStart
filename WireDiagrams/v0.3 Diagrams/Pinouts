@@ -1,0 +1,44 @@
+Please only use v0.3 for education, it has some good stuff but is kinda broken
+v0.4 is much better
+
+The wiring is suuuuuuuppperrrrrr basic. It was intended that way.
+Every input uses a pullup resistor, if it is INPUT_PULLUP then buttons go to ground and the pin number.
+If INPUT than use an external resistor to pull up to 5v and then the other side to ground. This is for the voltage dividers and octocouplers.
+Otherwise, ground to ground & positive to positive, etc
+Just DO NOT have a common 12v ground shared with the 3.3v or 5v ground! 
+
+//Pinouts
+  const int RelayStarter = 2;
+  const int RelayKill = 3;
+  const int Button1Pin = 4;
+  const int Button2Pin = 5;
+  const int DriveLedPin = 6;
+  const int NeutralLedPin = 7;
+  const int ReverseLedPin = 8;
+  const int DrivePin = 9;
+  const int NeutralPin = 10;
+  const int ReversePin = 11;
+  const int tempSensorPin = 12;
+  const int CoilPulsePin = A3;
+  const int PotentiometerThrottle = A4;
+  const int AnalogTempPin = A7;
+  Throttle.attach(A5);
+  Choke.attach(A6);
+
+Every input uses a pullup resistor, if it is INPUT_PULLUP then buttons go to ground and the pin number.
+If INPUT than use an external resistor. This is for the voltage dividers and octocouplers.
+
+// Pin Modes
+  pinMode(Button1Pin, INPUT_PULLUP);
+  pinMode(Button2Pin, INPUT_PULLUP);
+  pinMode(CoilPulsePin, INPUT);
+  pinMode(RelayStarter, OUTPUT);
+  pinMode(RelayKill, OUTPUT);
+  pinMode(DrivePin, INPUT_PULLUP);
+  pinMode(NeutralPin, INPUT_PULLUP);
+  pinMode(ReversePin, INPUT_PULLUP);
+  pinMode(DriveLedPin, OUTPUT);
+  pinMode(NeutralLedPin, OUTPUT);
+  pinMode(ReverseLedPin, OUTPUT);
+  pinMode(AnalogTemp, INPUT);
+  pinMode(PotentiometerThrottle, INPUT);
